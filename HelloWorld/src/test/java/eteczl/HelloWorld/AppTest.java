@@ -1,4 +1,4 @@
-package etec.pcii.Denilson;
+package eteczl.HelloWorld;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
